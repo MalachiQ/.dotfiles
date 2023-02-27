@@ -1,0 +1,8 @@
+Zacchaeus Malachi Quarles
+syntax on
+set ruler
+set autoindent
+set number
+set ignorecase
+color elflord
+The lab was easily explained and worked well with what we were currently learning, didn't enocunter any issues. 
